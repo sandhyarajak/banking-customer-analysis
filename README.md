@@ -17,23 +17,23 @@ banking-customer-analysis
 
 │── Banking.csv
 
-│── banking_customer.py
-
-│── banking_customer.sql
-
-│── sql.py
+│── README.md
 
 │── banking.pbix
 
-│── home.png
+│── banking-customer-py
 
-│── loan_analysis.png
+│── banking-customer.sql
 
 │── deposit_analysis.png
 
-│── summary.png
+│──  home.png
 
-│── README.md
+│── loan_analysis.png
+
+│── sql.py
+
+│── summary.png
 
 
 📊 Key Analysis Performed
