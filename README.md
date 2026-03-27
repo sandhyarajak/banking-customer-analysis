@@ -16,14 +16,23 @@ The objective is to clean, explore, and visualize customer data to extract meani
 banking-customer-analysis
 
 │── Banking.csv
+
 │── banking_customer.py
+
 │── banking_customer.sql
+
 │── sql.py
+
 │── banking.pbix
+
 │── home.png
+
 │── loan_analysis.png
+
 │── deposit_analysis.png
+
 │── summary.png
+
 │── README.md
 
 
